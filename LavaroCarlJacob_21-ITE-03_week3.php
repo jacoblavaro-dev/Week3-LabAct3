@@ -78,7 +78,6 @@ class ElectricCar extends Car implements ElectricVehicle {
         return "This is an electric car with $this->batteryLevel% battery.";
     }
 }
-
 // 6. Testing the implementation
 
 // Creating instances of each vehicle type
