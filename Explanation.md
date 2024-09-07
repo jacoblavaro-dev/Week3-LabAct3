@@ -1,5 +1,5 @@
 #Week3-LabAct3
-##Laboratory Activity 3: Vehicle Management System: Understanding Inheritance and Polymorphism
+Laboratory Activity 3: Vehicle Management System: Understanding Inheritance and Polymorphism
 
 To tackle the lab exercise, I approached the task with a focus on inheritance, polymorphism, and interfaces in PHP. 
 Here's a breakdown of the concepts and how they were implemented in the solution:
